@@ -16,7 +16,7 @@ def conexao_banco():
 
 #Construir a função para cadastrar um novo cliente no banco - Gabriel
 def cadastar_novo_cliente():
-    print('Aguarde...')
+    print('Finalizado')
     print('Cliente cadastrado')
     #teste 2
 
