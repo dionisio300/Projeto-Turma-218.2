@@ -7,6 +7,7 @@ print('Esse é o arquivo principal')
 
 #Construir a função de conexão com o banco de dados - Alexya
 def conexao_banco():
+    print ('Aguarde...')
     print ("O banco de dados foi conectado com sucesso!")
     
 #comentario2
