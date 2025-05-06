@@ -14,7 +14,9 @@ print('Esse é o arquivo principal')
 
 
 # Exibir todos os clientes que estão no banco de dados - Dionizio
-
+def exibir_clientes():
+    print('Mostrar todos os clientes')
+    # mais uma coisa
 
 
 
